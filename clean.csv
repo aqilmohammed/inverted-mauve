@@ -1,0 +1,301 @@
+,Study area,Gender,Age,Educational Status,Years of residence,Frequency of visit,Purpose of visit,Use river water for drinking,Acceptance of water quality,Status of fish population,Status of fish diversity,Presence of Alien species,Cause of fish decline,Pollution status,Nature of pollutants
+0,Parali,Female,40-59,Graduate,10-20,Daily,Domestic activities,Yes,Yes,Don't know,Don't know,Don't know,Illegfishing,Heavily polluted,Biologiccontaminants
+1,Parali,Male,60-79,HS,>20,Daily,Domestic activities,Yes,Yes,Know,Know,Yes,Illegfishing,Moderately polluted,Biologiccontaminants
+2,Parali,Male,60-79,HS,>20,Daily,Domestic activities,Yes,Yes,Know,Know,Yes,Don't know,Slightly polluted,Biologiccontaminants
+3,Parali,Female,40-59,HS,>20,Daily,Domestic activities,Yes,Yes,Know,Know,Yes,Don't know,Moderately polluted,Biologiccontaminants
+4,Parali,Female,60-79,Primary,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Biologiccontaminants
+5,Parali,Male,60-79,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Illegfishing,,Gross solids
+6,Parali,Male,40-59,HS,>20,Daily,Domestic activities,Yes,No,Know,Know,Yes,Illegfishing,Moderately polluted,Chemicand Biological
+7,Parali,Female,40-59,HS,10-20,Daily,Domestic activities,No,Yes,Know,Know,No,Don't know,Not polluted,No pollutants
+8,Parali,Male,20-39,HS,>20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Chemicand Biological
+9,Parali,Female,40-59,Graduate,>20,Daily,Domestic activities,No,Not always,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+10,Parali,Female,40-59,HSS,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Biologiccontaminants
+11,Parali,Female,40-59,HSS,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Don't know,Not polluted,No pollutants
+12,Parali,Female,40-59,HS,5-10,Never,Not visiting,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+13,Parali,Female,60-79,Primary,>20,Daily,Domestic activities,Yes,Not always,Know,Know,No,Don't know,Slightly polluted,Biologiccontaminants
+14,Parali,Female,40-59,HS,>20,Daily,Domestic activities,No,Yes,Know,Don't know,Don't know,Don't know,Slightly polluted,Biologiccontaminants
+15,Parali,Female,40-59,HS,>20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+16,Parali,Female,20-39,HS,10-20,Occasionally,Domestic activities,No,Not always,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+17,Parali,Male,20-39,HSS,>20,Occasionally,Domestic activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+18,Parali,Female,40-59,HS,>20,Daily,Domestic activities,No,No,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Chemicand Biological
+19,Parali,Female,40-59,HS,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+20,Parali,Female,40-59,Primary,>20,Daily,Domestic activities,Yes,Not always,Know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+21,Parali,Male,40-59,Primary,10-20,Daily,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+22,Parali,Female,20-39,HSS,5-10,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+23,Parali,Female,20-39,HS,10-20,Occasionally,Domestic activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+24,Parali,Male,40-59,HS,>20,Daily,Domestic activities,Yes,Yes,Know,Know,Yes,Don't know,Not polluted,No pollutants
+25,Parali,Male,40-59,HS,>20,Daily,Domestic activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+26,Parali,Male,20-39,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Don't know,Heavily polluted,Biologiccontaminants
+27,Parali,Female,60-79,HS,>20,Daily;Occasionally,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Gross and fine sediments alone
+28,Parali,Female,60-79,Primary,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+29,Parali,Female,40-59,Primary,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Biologiccontaminants
+30,Parali,Female,60-79,Primary,>20,Daily,Domestic activities,No,Yes,Know,Know,No,Illegfishing,Not polluted,No pollutants
+31,Parali,Female,20-39,HS,>20,Daily,Domestic activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+32,Parali,Female,20-39,Graduate,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Don't know,Not polluted,No pollutants
+33,Parali,Female,60-79,Primary,>20,Weekly,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+34,Parali,Female,40-59,HS,10-20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+35,Parali,Female,60-79,Primary,>20,Daily,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Gross and fine sediments alone
+36,Parali,Female,20-39,Graduate,<5,Occasionally,Domestic activities,No,Yes,Know,Don't know,Don't know,Don't know,Slightly polluted,Gross and fine sediments alone
+37,Parali,Female,20-39,Graduate,>20,Daily,Domestic activities,Yes,Not always,Know,Know,Yes,Don't know,Not polluted,No pollutants
+38,Parali,Female,40-59,HS,>20,Daily,Domestic activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+39,Parali,Female,20-39,HS,10-20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+40,Parali,Female,60-79,HS,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+41,Parali,Male,60-79,HS,>20,Occasionally,Domestic activities,Yes,Yes,Know,Know,Don't know,Don't know,Slightly polluted,Gross and fine sediments alone
+42,Parali,Male,60-79,HS,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,No,Don't know,Moderately polluted,Gross and fine sediments alone
+43,Parali,Male,40-59,HS,10-20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+44,Parali,Female,20-39,HS,5-10,Daily,Domestic activities,No,Yes,Know,Know,No,Don't know,Not polluted,No pollutants
+45,Parali,Male,60-79,Primary,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+46,Parali,Female,20-39,HSS,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+47,Parali,Male,40-59,HS,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+48,Parali,Female,60-79,Primary,>20,Daily,Domestic activities,Yes,Yes,Know,Know,Don't know,Don't know,,No pollutants
+49,Parali,Female,20-39,Graduate,<5,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+50,Parali,Male,20-39,HS,>20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+51,Parali,Female,40-59,HS,10-20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+52,Parali,Female,20-39,Graduate,<5,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+53,Parali,Female,20-39,HS,<5,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+54,Parali,Female,20-39,HSS,<5,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+55,Parali,Female,20-39,Graduate,10-20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+56,Parali,Male,60-79,Primary,>20,Daily,Not visiting,No,No,Know,Know,No,Don't know,Heavily polluted,Chemicand Biological
+57,Parali,Female,40-59,Graduate,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+58,Parali,Female,40-59,HSS,>20,Occasionally,Domestic activities,No,Yes,Know,Know,No,Don't know,Not polluted,No pollutants
+59,Parali,Female,20-39,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Illegfishing,Not polluted,Biologiccontaminants
+60,Parali,Female,40-59,HS,>20,Daily,Domestic activities,No,No,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+61,Parali,Female,60-79,HS,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+62,Parali,Female,40-59,Graduate,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+63,Parali,Male,60-79,HS,>20,Never,Not visiting,No,No,Know,Don't know,Don't know,Don't know,Not polluted,Gross solids
+64,Ivarmadom,Male,60-79,HS,>20,Daily,Recreation and religious activities,No,Not always,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Gross and fine sediments alone
+66,Ivarmadom,Female,60-79,Graduate,>20,Occasionally,Recreation and religious activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Biologiccontaminants
+67,Ivarmadom,Female,60-79,HS,>20,Never,Not visiting,No,No,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Biologiccontaminants
+68,Ivarmadom,Female,60-79,HS,>20,Weekly,Recreation and religious activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Biologiccontaminants
+69,Ivarmadom,Male,60-79,HSS,>20,Weekly,Recreation and religious activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+70,Ivarmadom,Female,40-59,HSS,>20,Daily,Domestic activities,Yes,Yes,Know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+71,Ivarmadom,Male,40-59,HS,>20,Daily,Domestic activities,Yes,Yes,Know,Don't know,Yes,Don't know,Moderately polluted,Biologiccontaminants
+72,Ivarmadom,Female,40-59,HS,>20,Occasionally,Domestic activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Biologiccontaminants
+73,Ivarmadom,Female,40-59,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,No,Don't know,Slightly polluted,Gross solids
+74,Ivarmadom,Female,20-39,HS,<5,Daily,Domestic activities,No,Yes,Know,Know,No,Don't know,Heavily polluted,Biologiccontaminants
+75,Ivarmadom,Male,40-59,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,No,Illegfishing,Heavily polluted,Biologiccontaminants
+76,Ivarmadom,Female,20-39,HSS,10-20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+77,Ivarmadom,Female,80- 99,Primary,>20,Never,Recreation alone,No,Yes,Know,Don't know,Don't know,Don't know,Heavily polluted,Biologiccontaminants
+78,Ivarmadom,Female,40-59,HS,>20,Never,Domestic activities,No,Yes,Don't know,Don't know,No,Don't know,Heavily polluted,Biologiccontaminants
+79,Ivarmadom,Female,80- 99,Primary,>20,Daily,Domestic activities,No,Yes,Know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+80,Ivarmadom,Female,40-59,HS,>20,Never,Not visiting,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Biologiccontaminants
+81,Ivarmadom,Female,20-39,HS,10-20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Gross and fine sediments alone
+82,Ivarmadom,Female,20-39,HS,<5,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+83,Ivarmadom,Male,20-39,HS,>20,Daily,Domestic activities,No,No,Know,Know,No,Don't know,Heavily polluted,Biologiccontaminants
+84,Ivarmadom,Female,40-59,Primary,>20,Daily,Domestic activities,No,Yes,Know,Know,No,Don't know,Moderately polluted,Biologiccontaminants
+85,Ivarmadom,Male,20-39,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,No,Don't know,Not polluted,No pollutants
+86,Ivarmadom,Female,40-59,HS,>20,Occasionally,Recreation and religious activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross and fine sediments alone
+87,Ivarmadom,Female,40-59,HS,>20,Occasionally,Recreation alone,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+88,Ivarmadom,Female,60-79,HS,5-10,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+89,Ivarmadom,Female,20-39,Graduate,<5,Weekly,Recreation alone,No,Yes,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Gross and fine sediments alone
+90,Ivarmadom,Female,40-59,HS,>20,Occasionally,Recreation and religious activities,No,Not always,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Biologiccontaminants
+91,Ivarmadom,Female,60-79,HS,>20,Daily,Domestic activities,No,No,Know,Know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+92,Ivarmadom,Male,20-39,Graduate,>20,Daily;Weekly,Domestic activities,No,Not always,Don't know,Don't know,Don't know,Don't know,Not polluted,Gross solids
+93,Ivarmadom,Male,60-79,HS,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Gross and fine sediments alone
+94,Ivarmadom,Male,80- 99,Primary,>20,Never,Not visiting,No,No,Know,Know,Yes,Don't know,Not polluted,No pollutants
+95,Ivarmadom,Male,60-79,Primary,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Gross and fine sediments alone
+96,Ivarmadom,Female,40-59,Graduate,>20,Occasionally,Recreation and religious activities,Yes,Not always,Know,Don't know,Don't know,Don't know,Moderately polluted,Gross solids
+97,Ivarmadom,Male,20-39,HSS,5-10,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+98,Ivarmadom,Female,40-59,HS,>20,Occasionally,Recreation alone,,Yes,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+99,Ivarmadom,Female,60-79,Primary,>20,Daily,Domestic activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+100,Ivarmadom,Female,60-79,HS,5-10,Daily,Domestic activities,Yes,Not always,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+101,Ivarmadom,Female,40-59,Primary,>20,Daily,Domestic activities,Yes,Not always,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+102,,Female,60-79,HS,>20,Daily,Domestic activities,No,Not always,Know,Don't know,Don't know,Don't know,Moderately polluted,Gross solids
+103,Ivarmadom,Female,40-59,HS,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+104,Ivarmadom,Female,40-59,HS,10-20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+105,Ivarmadom,Male,40-59,HSS,>20,Occasionally,Recreation alone,No,Not always,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+106,Ivarmadom,Female,60-79,HS,>20,Occasionally,Domestic activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+107,Ivarmadom,Female,40-59,HS,>20,Never,Not visiting,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+108,Ivarmadom,Female,40-59,HS,>20,Weekly,Domestic activities,Yes,Yes,Know,Know,Yes,Don't know,Not polluted,No pollutants
+109,Ivarmadom,Male,60-79,Primary,>20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+110,Ivarmadom,Female,60-79,Primary,>20,Daily,Domestic activities,No,Yes,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+111,Ivarmadom,Male,40-59,Primary,>20,Never,Not visiting,No,Yes,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+112,Ivarmadom,Female,20-39,HS,10-20,Daily,Domestic activities,Yes,Yes,Know,Know,Yes,Illegfishing,Slightly polluted,Biologiccontaminants
+113,Ivarmadom,Female,60-79,Primary,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,
+114,Ivarmadom,Male,40-59,HS,>20,Daily,Domestic activities,No,Yes,Know,Don't know,Don't know,Don't know,Moderately polluted,Gross solids
+115,Ivarmadom,Female,40-59,Primary,>20,Daily,Domestic activities,No,Yes,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+116,Ivarmadom,Female,40-59,HS,>20,Occasionally,Domestic activities,No,Yes,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+117,Ivarmadom,Female,40-59,HS,>20,Never,Not visiting,No,Yes,Know,Don't know,Don't know,Illegfishing,Not polluted,No pollutants
+118,Ivarmadom,Female,60-79,HS,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+119,Ivarmadom,Female,20-39,Graduate,>20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+120,Ivarmadom,Male,40-59,HS,5-10,Daily,Domestic activities,No,Yes,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+121,Ivarmadom,Female,40-59,HS,>20,Occasionally,Not visiting,No,,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+122,Ivarmadom,Female,60-79,Primary,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Biologiccontaminants
+123,Ivarmadom,Female,20-39,Graduate,>20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+124,Ivarmadom,Female,40-59,Primary,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+125,Ivarmadom,Female,20-39,Primary,>20,Daily,Domestic activities,No,Yes,Know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+126,Ivarmadom,Female,20-39,HS,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+127,Ivarmadom,Female,20-39,HSS,10-20,Daily,Domestic activities,No,Not always,Know,Know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+128,Shoranur,Male,40-59,HS,>20,Daily,Recreation alone,No,Yes,Know,Know,Yes,Dand associated sediment accumulation,Moderately polluted,Gross and fine sediments alone
+129,Shoranur,Female,20-39,HS,5-10,Occasionally,Recreation alone,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross and fine sediments alone
+130,Shoranur,Male,60-79,HS,>20,Weekly,Domestic activities,No,Yes,Know,Know,Yes,Don't know,Heavily polluted,Gross and fine sediments alone
+131,Shoranur,Male,20-39,HS,10-20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Don't know,Moderately polluted,Gross solids
+132,Shoranur,Male,20-39,HS,>20,Occasionally,Domestic activities,No,Yes,Know,Know,Yes,Don't know,Moderately polluted,Gross and fine sediments alone
+133,Shoranur,Male,20-39,HS,10-20,Occasionally,Recreation alone,No,,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Fine soliand sediments
+134,Shoranur,Female,40-59,HS,>20,Occasionally,Recreation alone,,Yes,Don't know,Don't know,,Don't know,Slightly polluted,Biologiccontaminants
+135,Shoranur,Female,20-39,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Don't know,Slightly polluted,Gross solids
+136,Shoranur,Male,20-39,HS,>20,Occasionally,Recreation alone,No,Yes,Know,Know,Yes,Don't know,Moderately polluted,Biologiccontaminants
+137,Shoranur,Female,20-39,HS,10-20,Occasionally,Domestic activities,No,,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+138,Shoranur,Male,40-59,HS,>20,Daily,Recreation alone,No,Yes,Know,Know,Yes,Don't know,Slightly polluted,Gross solids
+139,Shoranur,Female,20-39,HS,>20,Daily,Domestic activities,No,Yes,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+140,Shoranur,Female,60-79,Primary,>20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross and fine sediments
+141,Shoranur,Female,20-39,HSS,>20,Occasionally,Domestic activities,No,No,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Gross solids
+142,Shoranur,Male,20-39,HSS,>20,Occasionally,Recreation alone,,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+143,Shoranur,Male,20-39,HSS,>20,Occasionally,Recreation alone,No,No,Know,Know,Yes,Don't know,Moderately polluted,Biologiccontaminants
+144,Shoranur,Male,40-59,Graduate,>20,Daily,Domestic activities,No,,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+145,Shoranur,Female,40-59,HSS,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+146,Shoranur,Female,20-39,Graduate,5-10,Weekly,Recreation alone,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+147,Shoranur,Female,20-39,Graduate,5-10,Occasionally,Recreation alone,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+148,Shoranur,Male,40-59,HS,>20,Occasionally,Recreation alone,No,,Know,Know,Yes,Don't know,Not polluted,No pollutants
+149,Shoranur,Female,20-39,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Don't know,Moderately polluted,Biologiccontaminants
+150,Shoranur,Female,40-59,Primary,<5,Never,Recreation alone,No,Yes,Don't know,,Don't know,Don't know,Slightly polluted,Gross solids
+151,Shoranur,Female,20-39,Graduate,<5,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+152,Shoranur,Female,20-39,Graduate,>20,Never,Not visiting,No,No,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Gross and fine sediments alone
+153,Shoranur,Male,60-79,HS,>20,Occasionally,Domestic activities,No,Yes,Know,Know,Don't know,Don't know,Slightly polluted,Gross and fine sediments alone
+154,Shoranur,Male,40-59,HS,>20,Daily,Domestic activities,No,No,Know,Know,Yes,Illegfishing,Moderately polluted,Gross and fine sediments alone
+155,Shoranur,Female,40-59,HS,>20,Daily,Domestic activities,No,No,Know,Don't know,Don't know,Don't know,Moderately polluted,Chemicand Biological
+156,Shoranur,Male,40-59,HS,>20,Daily,Recreation alone,,No,Know,Know,Yes,Dand associated sediment accumulation,Moderately polluted,Biologiccontaminants
+157,Shoranur,Female,40-59,HS,>20,Occasionally,Recreation alone,No,Yes,Know,Don't know,Don't know,Don't know,Moderately polluted,Gross and fine sediments alone
+158,Shoranur,Female,20-39,HS,10-20,Weekly,Domestic activities,No,No,Know,Don't know,Don't know,Don't know,Moderately polluted,Gross and fine sediments alone
+159,Shoranur,Male,20-39,Graduate,<5,Daily,Recreation alone,,No,Know,Know,Don't know,Don't know,Moderately polluted,Gross and fine sediments alone
+160,Shoranur,Female,20-39,HS,>20,Occasionally,Domestic activities,No,No,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Biologiccontaminants
+161,Shoranur,Male,60-79,HSS,10-20,Occasionally,Recreation alone,,Yes,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+162,Shoranur,Female,60-79,Primary,10-20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+163,Shoranur,Female,60-79,Primary,10-20,Occasionally,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+164,Shoranur,Female,40-59,HSS,5-10,Occasionally,Recreation alone,,,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Chemicand Biological
+165,Shoranur,Female,60-79,Primary,<5,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+166,Shoranur,Female,60-79,Primary,>20,Occasionally,Domestic activities,No,Yes,Know,Know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+167,Shoranur,Female,40-59,HS,10-20,Occasionally,Domestic activities,No,Yes,Know,Know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+168,Shoranur,Female,40-59,HS,10-20,Occasionally,Recreation and religious activities,No,Yes,Know,Know,Don't know,Don't know,Moderately polluted,Chemicand Biological
+169,Shoranur,Female,20-39,HS,10-20,Occasionally,Recreation alone,No,Yes,Know,Know,Don't know,Don't know,Moderately polluted,Gross and fine sediments alone
+170,Shoranur,Female,40-59,HS,10-20,Occasionally,Not visiting,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Gross solids
+171,Shoranur,Female,60-79,Primary,>20,Daily,Domestic activities,No,Yes,Know,Know,Don't know,Illegfishing,Slightly polluted,Gross solids
+172,Shoranur,Female,40-59,HSS,10-20,Occasionally,Recreation alone,,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+173,Shoranur,Female,20-39,Graduate,>20,Occasionally,Domestic activities,No,Not always,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+174,Shoranur,Male,40-59,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+175,Shoranur,Female,40-59,HS,>20,Weekly,Domestic activities,No,Yes,Know,Know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+176,Shoranur,Male,20-39,HSS,<5,Occasionally,Recreation alone,No,Yes,Don't know,Don't know,Don't know,Illegfishing,Not polluted,No pollutants
+177,Shoranur,Male,40-59,HSS,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Don't know,Not polluted,No pollutants
+178,Shoranur,Female,20-39,HSS,5-10,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+179,Shoranur,Female,60-79,Primary,>20,Daily,Recreation alone,No,Yes,Know,Know,Yes,Illegfishing,Not polluted,No pollutants
+180,Shoranur,Female,60-79,HS,>20,Weekly,Domestic activities,No,Yes,Know,Know,Don't know,Dand associated sediment accumulation;Illegfishing,Slightly polluted,Gross and fine sediments alone
+181,Shoranur,Male,60-79,HS,>20,Daily,Domestic activities,Yes,Yes,Know,Know,Don't know,Don't know,Moderately polluted,Gross and fine sediments alone
+182,Shoranur,Female,40-59,Graduate,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Biologiccontaminants
+183,Shoranur,Female,40-59,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+184,Shoranur,Female,20-39,Graduate,10-20,Weekly,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+185,Pattambi,Female,20-39,HS,>20,Occasionally,Recreation alone,No,No,Know,Know,Yes,Don't know,Moderately polluted,Biologiccontaminants
+186,Pattambi,Male,60-79,Primary,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Dand associated sediment accumulation,Heavily polluted,Biologiccontaminants
+187,Pattambi,Male,20-39,HS,>20,Daily,Domestic activities,No,No,Know,Know,Yes,Illegfishing,Moderately polluted,Chemicand Biological
+188,Pattambi,Male,20-39,HS,>20,Daily,Domestic activities,No,Not always,Know,Know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+189,Pattambi,Female,20-39,Graduate,>20,Occasionally,Recreation alone,No,No,Know,Know,Yes,Don't know,Heavily polluted,Gross solids
+190,Pattambi,Female,20-39,HS,10-20,Never,Not visiting,No,,Don't know,Don't know,No,Don't know,Moderately polluted,No pollutants
+191,Pattambi,Female,40-59,HS,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,No pollutants
+192,Pattambi,Female,40-59,HSS,10-20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+193,Pattambi,Female,60-79,HS,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+194,Pattambi,Female,20-39,HS,10-20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+195,Pattambi,Female,20-39,Graduate,10-20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Gross solids
+196,Pattambi,Female,40-59,Primary,>20,Never,Not visiting,No,Not always,Know,Know,Don't know,Illegfishing,Not polluted,No pollutants
+197,Pattambi,Male,40-59,HS,>20,Occasionally,Recreation alone,No,Yes,Know,Know,Yes,Dand associated sediment accumulation,Slightly polluted,Gross and fine sediments alone
+198,Pattambi,Female,60-79,HS,>20,Never,Not visiting,No,No,Know,Know,Yes,Don't know,Heavily polluted,Biologiccontaminants
+199,Pattambi,Female,20-39,HS,5-10,Occasionally,Recreation alone,No,No,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+200,Pattambi,Female,40-59,HS,>20,Never,Not visiting,No,Not always,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+201,Pattambi,Male,20-39,Graduate,10-20,Weekly,Recreation and religious activities,,No,Know,Know,Yes,Don't know,Not polluted,No pollutants
+202,Pattambi,Female,40-59,HS,>20,Occasionally,Recreation alone,No,No,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+203,Pattambi,Female,20-39,Graduate,>20,Never,Not visiting,No,No,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+204,Pattambi,Female,20-39,HSS,5-10,Occasionally,Domestic activities,No,Yes,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+205,Pattambi,Female,40-59,Graduate,>20,Never,Domestic activities,No,No,Know,Know,Yes,Don't know,Heavily polluted,Chemicand Biological
+206,Pattambi,Female,40-59,HS,10-20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Illegfishing,Not polluted,No pollutants
+207,Pattambi,Female,40-59,HS,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross and fine sediments alone
+208,Pattambi,Female,60-79,Primary,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+209,Pattambi,Male,20-39,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Don't know,Moderately polluted,Biologiccontaminants
+210,Pattambi,Female,40-59,Primary,,Daily,Domestic activities,No,Yes,Know,Know,Yes,Illegfishing,Slightly polluted,Biologiccontaminants
+211,Pattambi,Female,40-59,Primary,>20,Daily,Domestic activities,No,Not always,Know,Know,Yes,Illegfishing,Heavily polluted,Gross and fine sediments alone
+212,Pattambi,Male,20-39,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Illegfishing,Not polluted,No pollutants
+213,Pattambi,Female,40-59,Primary,>20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+214,Pattambi,Female,20-39,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,No,Don't know,Not polluted,No pollutants
+215,Pattambi,Male,20-39,Graduate,10-20,Daily,Domestic activities,No,Not always,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+216,Pattambi,Female,40-59,HS,10-20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Dand associated sediment accumulation,Slightly polluted,Biologiccontaminants
+217,Pattambi,Male,20-39,HS,10-20,Daily,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+218,Pattambi,Male,60-79,Primary,>20,Daily,Domestic activities,No,Yes,Know,Know,No,Don't know,Slightly polluted,Gross solids
+219,Pattambi,Male,20-39,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,Yes,Illegfishing,Slightly polluted,Gross solids
+220,Pattambi,Female,60-79,Primary,>20,Occasionally,Not visiting,No,No,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Gross and fine sediments alone
+221,Pattambi,Male,60-79,HS,>20,Daily,Recreation alone,No,Yes,Know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+222,Pattambi,Female,60-79,Primary,>20,Occasionally,Recreation alone,No,No,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+223,Pattambi,Female,60-79,Primary,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+224,Pattambi,Female,40-59,HS,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+225,Pattambi,Female,40-59,HS,>20,Never,Not visiting,No,No,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+226,Pattambi,Male,60-79,Primary,>20,Occasionally,Domestic activities,No,Yes,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+227,Pattambi,Female,60-79,HS,>20,Daily,Domestic activities,No,Not always,Know,Don't know,Don't know,Illegfishing,Slightly polluted,Gross solids
+228,Pattambi,Female,40-59,HS,10-20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross and fine sediments alone
+229,Pattambi,Male,40-59,HS,>20,Daily,Domestic activities,No,Not always,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+230,Pattambi,Female,40-59,HS,<5,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+231,Pattambi,Female,20-39,Graduate,10-20,Occasionally,Recreation alone,,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+232,Pattambi,Male,20-39,Graduate,5-10,Occasionally,Domestic activities,,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+233,Pattambi,Male,40-59,HS,10-20,Occasionally,Recreation alone,,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+234,Pattambi,Male,40-59,HS,<5,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Chemicand Biological
+235,Pattambi,Male,40-59,Graduate,>20,Never,Not visiting,No,Yes,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+236,Pattambi,Female,20-39,HSS,10-20,Never,Not visiting,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+237,Pattambi,Male,60-79,Primary,5-10,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+238,Pattambi,Female,20-39,HSS,10-20,Occasionally,Recreation alone,,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+239,Pattambi,Female,40-59,HS,>20,Occasionally,Recreation alone,,Yes,Know,Don't know,Yes,Don't know,Not polluted,Gross solids
+240,Pattambi,Female,20-39,HSS,5-10,Daily,Domestic activities,No,Yes,Know,Know,No,Don't know,Slightly polluted,Gross solids
+241,Pattambi,Female,40-59,Primary,5-10,Never,Not visiting,No,Not always,Know,Know,Don't know,Illegfishing,Not polluted,No pollutants
+242,Pattambi,Female,20-39,Graduate,10-20,Daily,Domestic activities,No,Yes,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+243,Pattambi,Male,20-39,HS,5-10,Occasionally,Recreation alone,,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+244,Pattambi,Male,20-39,HS,>20,Daily,Recreation alone,No,Yes,Know,Don't know,Don't know,Don't know,Slightly polluted,Gross and fine sediments alone
+245,Pattambi,Male,60-79,Primary,>20,Occasionally,Recreation alone,,Yes,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+246,Pattambi,Female,20-39,HS,5-10,Occasionally,Recreation alone,Yes,Yes,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+247,Pattambi,Male,60-79,HS,5-10,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+248,Pattambi,Female,20-39,HS,10-20,Never,Not visiting,No,Yes,Know,Don't know,No,Don't know,Not polluted,No pollutants
+249,Pattambi,Female,20-39,HSS,5-10,Never,Not visiting,No,Not always,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+250,Pattambi,Male,20-39,HS,>20,Daily,Recreation alone,,Yes,Know,Know,Yes,Don't know,Not polluted,No pollutants
+251,Pattambi,Female,20-39,HS,5-10,Daily,Domestic activities,No,Yes,Know,Don't know,No,Don't know,Heavily polluted,Gross and fine sediments alone
+252,Pattambi,Female,20-39,HS,10-20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+253,Pattambi,Female,20-39,HS,10-20,Occasionally,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+254,Pattambi,Male,40-59,HS,>20,Daily,Domestic activities,Yes,Yes,Know,Know,Yes,Don't know,Slightly polluted,Gross solids
+255,Pattambi,Female,60-79,Primary,>20,Daily,Domestic activities,Yes,Yes,Know,Know,Yes,Don't know,Not polluted,No pollutants
+256,Pattambi,Male,60-79,HS,>20,Occasionally,Domestic activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+257,Pattambi,Male,40-59,HS,>20,Daily,Domestic activities,No,Yes,Know,Know,No,Don't know,Slightly polluted,Gross solids
+258,Pattambi,Female,20-39,Graduate,>20,Never,Not visiting,No,Yes,Know,Know,No,Don't know,Slightly polluted,Gross solids
+259,Pattambi,Male,40-59,HSS,>20,Occasionally,Recreation alone,,Yes,Know,Know,Don't know,Don't know,Slightly polluted,Gross solids
+260,Pattambi,Female,60-79,Primary,>20,Daily,Domestic activities,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,Gross solids
+261,Ponnani,Male,40-59,HS,<5,Daily,Fishing,No,No,Know,Know,Yes,Don't know,Slightly polluted,Chemicand Biological
+262,Ponnani,Male,40-59,HS,>20,Never,Recreation alone,No,Yes,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+263,Ponnani,Female,20-39,HS,>20,Occasionally,Fishing,No,No,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+264,Ponnani,Female,20-39,HS,>20,Never,Not visiting,No,No,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+265,Ponnani,Male,40-59,HS,>20,Occasionally,Fishing,No,No,Know,Know,Yes,Illegfishing,Heavily polluted,Chemicand Biological
+266,Ponnani,Male,20-39,HS,>20,Daily,Fishing,No,No,Know,Know,No,Illegfishing,Not polluted,No pollutants
+267,Ponnani,Male,20-39,HS,10-20,Daily,Fishing,No,Yes,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+268,Ponnani,Female,20-39,HS,>20,Never,Not visiting,No,,Know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+269,Ponnani,Male,20-39,Primary,>20,Daily,Recreation and religious activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+270,Ponnani,Female,20-39,HS,>20,Never,Not visiting,Yes,Yes,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+271,Ponnani,Male,20-39,Primary,5-10,Daily,Fishing,No,Yes,Know,Know,Yes,Don't know,Not polluted,No pollutants
+272,Ponnani,Female,40-59,Primary,>20,Daily,Fishing,No,Yes,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+273,Ponnani,Male,20-39,HSS,>20,Weekly,Fishing,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+274,Ponnani,Female,60-79,Primary,>20,Daily,Recreation alone,No,Yes,Know,Know,No,Don't know,Heavily polluted,Chemicand Biological
+275,Ponnani,Female,40-59,Primary,>20,Never,Not visiting,No,No,Know,Know,No,Don't know,Heavily polluted,Biologiccontaminants
+276,Ponnani,Female,40-59,HS,,Never,Not visiting,No,Not always,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+277,Ponnani,Female,20-39,Graduate,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+278,Ponnani,Male,60-79,HS,>20,Occasionally,Recreation alone,No,No,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+279,Ponnani,Female,20-39,HSS,5-10,Occasionally,Recreation alone,No,Not always,Know,Know,Don't know,Don't know,Slightly polluted,Gross solids
+280,Ponnani,Female,40-59,HS,>20,Never,Not visiting,No,Not always,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+281,Ponnani,Female,20-39,HSS,5-10,Occasionally,Recreation alone,No,Yes,Know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+282,Ponnani,Female,20-39,HSS,<5,Occasionally,Recreation and religious activities,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+283,Ponnani,Female,40-59,HS,>20,Daily,Recreation alone,No,Yes,Don't know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+284,Ponnani,Female,20-39,Graduate,<5,Occasionally,Recreation alone,,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+285,Ponnani,Male,40-59,HS,<5,Occasionally,Recreation alone,No,Yes,Know,Don't know,Don't know,Don't know,Moderately polluted,Biologiccontaminants
+286,Ponnani,Female,60-79,Primary,,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+287,Ponnani,Male,20-39,HS,10-20,Occasionally,Recreation alone,No,Yes,Know,Know,Don't know,Don't know,Slightly polluted,Gross solids
+288,Ponnani,Male,40-59,HS,<5,Never,Not visiting,No,Yes,Know,Know,No,Illegfishing,Not polluted,No pollutants
+289,Ponnani,Male,40-59,HS,>20,Daily,Recreation and religious activities,No,Yes,Know,Know,Yes,Don't know,Moderately polluted,Biologiccontaminants
+290,Ponnani,Male,40-59,HS,>20,Daily,Recreation alone,No,No,Know,Know,Yes,Don't know,Slightly polluted,Biologiccontaminants
+291,Ponnani,Female,20-39,HS,5-10,Never,Not visiting,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+292,Ponnani,Female,20-39,HSS,<5,Never,Not visiting,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+293,Ponnani,Male,20-39,Primary,<5,Occasionally,Recreation alone,No,No,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+294,Ponnani,Male,60-79,Primary,>20,Occasionally,Recreation alone,No,No,Don't know,Don't know,Don't know,Don't know,Heavily polluted,Biologiccontaminants
+295,Ponnani,Female,20-39,HS,>20,Occasionally,Recreation alone,No,No,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+296,Ponnani,Male,40-59,Primary,>20,Daily,Fishing,No,No,Know,Know,Yes,Don't know,Slightly polluted,Gross solids
+297,Ponnani,Male,40-59,HS,>20,Never,Not visiting,No,No,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
+298,Ponnani,Male,60-79,HS,>20,Never,Not visiting,No,No,Don't know,Don't know,Don't know,Don't know,Not polluted,No pollutants
+299,Ponnani,Male,60-79,Primary,10-20,Occasionally,Fishing,No,Yes,Know,Know,Don't know,Don't know,Not polluted,No pollutants
+300,Ponnani,Male,60-79,Primary,>20,Never,Not visiting,No,Yes,Don't know,Don't know,Don't know,Don't know,Slightly polluted,Gross solids
